@@ -33,6 +33,8 @@
 }
 
 body {
+  overflow-y: scroll; /* Mengaktifkan scroll vertikal */
+    height: 100vh; /* Mengatur tinggi body agar sesuai dengan tinggi layar */
   position: relative;
   background: #f7d7da;
   display: flex;
