@@ -33,8 +33,7 @@
 }
 
 body {
-  overflow-y: scroll; /* Mengaktifkan scroll vertikal */
-    height: 100vh; /* Mengatur tinggi body agar sesuai dengan tinggi layar */
+   /* Mengatur tinggi body agar sesuai dengan tinggi layar */
   position: relative;
   background: #f7d7da;
   display: flex;
@@ -43,7 +42,6 @@ body {
   flex-direction: column;
   max-width: 1200px;
   margin: 0 auto;
-  touch-action: pan-y;
 }
 
 p,
