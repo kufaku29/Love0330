@@ -121,7 +121,7 @@ ul {
 }
 
 .ovh {
-  overflow: hidden;
+  overflow: scroll;
 }
 
 .banner .img-intro {
