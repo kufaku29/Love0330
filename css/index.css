@@ -119,8 +119,8 @@ ul {
 }
 
 .ovh {
-  height: 400px;
-  overflow: scroll;
+  
+  overflow-y: scroll;
 }
 
 .banner .img-intro {
